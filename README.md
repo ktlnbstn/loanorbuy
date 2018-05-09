@@ -9,3 +9,9 @@ Looking for a digital copy for you e-reader?
 LoanOrBuy puts all your choices on one simple page.
 
 A Java based web application that will utilize RESTful APIs featuring highly responsive pages, user profiles, and MySQL database integration. Integrated Amazon’s Product Advertising API, BiblioCommons API, and Google Books API for accessing common information from multiple sources for maximum user experience.
+
+APIs utilized:
+- BiblioCommons (Library catalog, currently set to Seattle Public Library) API
+- Amazon Books API
+- Google Books API
+- ISBNdb API
