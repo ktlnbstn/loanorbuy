@@ -1,6 +1,7 @@
 <h2><u><em>Loan or Buy?</a></em></u></h2>
 	- Resource to locate books across different formats</br>
 	
+</br>
 A Java based web application that will utilize RESTful APIs featuring highly responsive pages, user profiles, and MySQL database integration. Integrated Amazon’s Product Advertising API, BiblioCommons API, and Google Books API for accessing common information from multiple sources for maximum user experience.
 </br>
 
