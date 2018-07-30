@@ -5,9 +5,9 @@
 A Java based web application that will utilize RESTful APIs featuring highly responsive pages, user profiles, and MySQL database integration. Integrated Amazon’s Product Advertising API, BiblioCommons API, and Google Books API for accessing common information from multiple sources for maximum user experience.
 </br>
 
-Want to see the price on Amazon?
-Hoping to score it for free from your local library?
-Looking for a digital copy for you e-reader?
+Want to see the price on Amazon?</br>
+Hoping to score it for free from your local library?</br>
+Looking for a digital copy for you e-reader?</br>
 Perhaps you could find a free digital download if you could only find a reputable source.</br>
 
 LoanOrBuy puts all your choices on one simple page.</br>
@@ -22,7 +22,7 @@ APIs utilized:
 
 <ul>
 	<li>Minimum Viable Product - Homepage, User Profile page, Search Results Page</li>
-  <li>Authentication Controller - User Login </li>
+ 	 <li>Authentication Controller - User Login </li>
 </ul></br>
 
 <hh3><em>Phase 2 </em></h3></br>
@@ -30,7 +30,7 @@ APIs utilized:
 <ul>
 	<li>Image Uploading - User Profile Photos</li>
 	<li>Homepage with Popular Title Suggestions</li>
-  <li>Enhanced Front-End Views</li>
+  	<li>Enhanced Front-End Views</li>
 </ul></br>
 
 </ul></br>
