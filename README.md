@@ -1,28 +1,21 @@
-# loanorbuy
-LoanOrBuy is a web application that brings together all the information you could possibly 
-want to source that new book that was recommened to you. 
+<h2><u><em>Loan or Buy?</a></em></u></h2>
+	- Resource to locate books across different formats</br>
+	
+A Java based web application that will utilize RESTful APIs featuring highly responsive pages, user profiles, and MySQL database integration. Integrated Amazon’s Product Advertising API, BiblioCommons API, and Google Books API for accessing common information from multiple sources for maximum user experience.
+</br>
 
 Want to see the price on Amazon?
 Hoping to score it for free from your local library?
 Looking for a digital copy for you e-reader?
-Perhaps you could find a free digital download if you could only find a reputable source.
+Perhaps you could find a free digital download if you could only find a reputable source.</br>
 
-LoanOrBuy puts all your choices on one simple page.
-
-A Java based web application that will utilize RESTful APIs featuring highly responsive pages, user profiles, and MySQL database integration. Integrated Amazon’s Product Advertising API, BiblioCommons API, and Google Books API for accessing common information from multiple sources for maximum user experience.
+LoanOrBuy puts all your choices on one simple page.</br>
 
 APIs utilized:
 - BiblioCommons (Library catalog, currently set to Seattle Public Library) API
 - Amazon Books API
 - Google Books API
-- ISBNdb API
-
-<h2><u><em>Loan or Buy?</a></em></u></h2>
-		- Resource to locate books across different formats</br>
-	
-<ul>
-<li>A Java based web application that will utilize RESTful APIs featuring highly responsive pages, user profiles, and MySQL database integration. Integrated Amazon’s Product Advertising API, BiblioCommons API, and Google Books API for accessing common information from multiple sources for maximum user experience.</li>
-</ul></br>
+- ISBNdb API</br>
 
 <hh3><em>Phase 1 (July 2018 - Present)</em></h3></br>
 
